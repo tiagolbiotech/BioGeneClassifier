@@ -1,0 +1,116 @@
+Modular type I polyketide,PKS
+Polyketide,PKS
+Other,Other
+Alkaloid Modular type I polyketide,Alkaloid-PKS
+Oligosaccharide,Oligosaccharide
+Iterative type I polyketide,PKS
+Modular type I polyketide Iterative type I polyketide Oligosaccharide,Oligosaccharide-PKS
+Modular type I polyketide Hybrid/tailoring saccharide,Oligosaccharide-PKS
+Iterative type I polyketide Enediyne type I polyketide,PKS
+Modular type I polyketide Trans-AT type I polyketide,PKS
+Terpene Iterative type I polyketide,PKS-Terpene
+Iterative type I polyketide Hybrid/tailoring saccharide,Oligosaccharide-PKS
+NRP Enediyne type I polyketide,NRPS-PKS
+NRP Modular type I polyketide,NRPS-PKS
+Trans-AT type I polyketide,PKS
+Polyketide NRP,NRPS-PKS
+Iterative type I polyketide Trans-AT type I polyketide,PKS
+Type II polyketide,PKS
+Alkaloid,Alkaloid
+Type III polyketide,PKS
+Type II polyketide Hybrid/tailoring saccharide,Oligosaccharide-PKS
+Type II polyketide Oligosaccharide,Oligosaccharide-PKS
+Oligosaccharide Type II polyketide,Oligosaccharide-PKS
+Cyclitol,Cyclitol
+Type III polyketide Oligosaccharide,Oligosaccharide-PKS
+NRP,NRPS
+Glycopeptide Hybrid/tailoring saccharide,NRPS-Oligosaccharide
+Glycopeptide,NRPS-Oligosaccharide
+Glycopeptide Other polyketide Hybrid/tailoring saccharide,NRPS-Oligosaccharide-PKS
+Lipopeptide,NRPS-PKS
+Polyketide Cyclic depsipeptide Aminocoumarin,Aminocoumarin-NRPS-PKS
+Ca+-dependent lipopeptide,NRPS-PKS
+Beta-lactam,Betalactam
+Cyclic depsipeptide,NRPS
+NRP siderophore,Siderophore
+NRP Alkaloid,Alkaloid-NRPS
+NRP Hybrid/tailoring saccharide,NRPS-Oligosaccharide
+Saccharide Glycopeptide,NRPS-Oligosaccharide
+Polyketide Cyclic depsipeptide,NRPS-PKS
+Pyrrolobenzodiazepine,Pyrrolobenzodiazepine
+Cyclic depsipeptide Trans-AT type I polyketide,NRPS-PKS
+Bottromycin,NRPS
+Cyanobactin,RiPP
+Lanthipeptide,RiPP
+Head-to-tail cyclized peptide,NRPS
+LAP,RiPP
+Lassopeptide,RiPP
+RiPP,RiPP
+Linaridin,RiPP
+Microcin,RiPP
+Microviridin,RiPP
+Proteusin,RiPP
+Sactipeptide,RiPP
+Thiopeptide,RiPP
+Terpene,Terpene
+Terpene Saccharide,Oligosaccharide-Terpene
+Terpene Hybrid/tailoring saccharide,Oligosaccharide-Terpene
+Terpene Alkaloid,Alkaloid-Terpene
+Saccharide,Oligosaccharide
+Polyketide Cyclitol,Cyclitol-PKS
+Exopolysaccharide,Oligosaccharide
+Lipopolysaccharide,Oligosaccharide
+Aminocoumarin,Aminocoumarin
+Hybrid/tailoring saccharide Aminocoumarin,Aminocoumarin-Oligosaccharide
+Non-NRP beta-lactam,Betalactam
+Butyrolactone,Butyrolactone
+Nucleoside,Nucleoside
+Hybrid/tailoring saccharide,Oligosaccharide
+Polyketide NRP Shikimate-derived,PKS
+Phenazine,Phenazine
+Polyketide Aminocoumarin,Aminocoumarin-PKS
+Non-NRP siderophore,Siderophore
+Uridylpeptide Nucleoside,NRPS-Nucleoside
+Aminoglycoside,Aminoglycoside
+Beta-lactam Type II polyketide,Betalactam-PKS
+NRP Polyketide,NRPS-PKS
+Cyclic depsipeptide Modular type I polyketide,NRPS-PKS
+NRP Iterative type I polyketide,NRPS-PKS
+Glycopeptide Modular type I polyketide Hybrid/tailoring saccharide,NRPS-Oligosaccharide-PKS
+NRP Trans-AT type I polyketide,NRPS-PKS
+NRP Modular type I polyketide Trans-AT type I polyketide,NRPS-PKS
+Lipopeptide Modular type I polyketide,NRPS-PKS
+Lipopeptide Modular type I polyketide Hybrid/tailoring saccharide,NRPS-Oligosaccharide-PKS
+NRP siderophore Modular type I polyketide Iterative type I polyketide,Siderophore
+Polyketide NRP Aminocoumarin,Aminocoumarin-NRPS-PKS
+NRP Modular type I polyketide Hybrid/tailoring saccharide,NRPS-Oligosaccharide-PKS
+Lipopeptide Trans-AT type I polyketide,NRPS-PKS
+NRP Modular type I polyketide PUFA synthase or related polyketide,NRPS-PKS
+Iterative type I polyketide Type II polyketide Hybrid/tailoring saccharide,Oligosaccharide-PKS
+Modular type I polyketide Type III polyketide,PKS
+Terpene Polyketide,PKS-Terpene
+Saccharide Modular type I polyketide Type II polyketide Aminocoumarin,Aminocoumarin-Oligosaccharide-PKS
+Saccharide Polyketide,Oligosaccharide-PKS
+Terpene Type III polyketide,PKS-Terpene
+NRP Terpene Alkaloid,Alkaloid-NRPS-Terpene
+NRP Terpene,NRPS-Terpene
+Polyketide Lipopeptide,NRPS-PKS
+Beta-lactam Modular type I polyketide,Betalactam-PKS
+NRP RiPP,NRPS-RiPP
+Lipopeptide Hybrid/tailoring saccharide,NRPS-Oligosaccharide
+Type II polyketide Type III polyketide,PKS
+Lipopeptide Iterative type I polyketide,NRPS-PKS
+Fatty acid,PKS
+Cyclic depsipeptide Iterative type I polyketide,NRPS-PKS
+Polyketide Hybrid/tailoring saccharide,Oligosaccharide-PKS
+NRP Alkaloid Iterative type I polyketide,Alkaloid-NRPS-PKS
+tRNA-derived,tRNA-derived
+Polyketide Terpene,PKS-Terpene
+Shikimate-derived,PKS
+Modular type I polyketide NRP,NRPS-PKS
+Alkaloid Iterative type I polyketide,Alkaloid-PKS
+Phosphonate,Phosphonate
+Glycocin,RiPP
+Terpene Glycocin,RiPP-Terpene
+Iterative type I polyketide NRP,NRPS-PKS
+NRP Saccharide,NRPS-Oligosaccharide

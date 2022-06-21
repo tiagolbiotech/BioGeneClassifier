@@ -1,0 +1,1169 @@
+	metabolite	activity
+0	abyssomicin	antibacterial
+1	aurafuron	antifungal-cytotoxic
+2	aureothin	antibacterial-antifungal-cytotoxic
+3	avilamycin	antibacterial
+4	bafilomycin	antibacterial-antifungal-cytotoxic
+5	borrelidin	antibacterial-cytotoxic
+6	chlorothricin	antibacterial
+7	coelimycin	unknown
+8	dawenol	unknown
+9	erythromycin	antibacterial
+10	galbonolides	antifungal
+11	kedarcidin	antibacterial-cytotoxic
+12	lactimidomycin	antifungal-cytotoxic
+13	neoaureothin	antifungal-cytotoxic
+14	neocarzinostatin	antibacterial-cytotoxic
+15	nystatin	antifungal
+16	pactamycin	antibacterial-antifungal-cytotoxic
+17	salinomycin	antibacterial-cytotoxic
+18	soraphen	antifungal
+19	spirangien	antifungal-cytotoxic
+20	sporolide	unknown
+21	stambomycin	antibacterial-cytotoxic
+22	stigmatellin	antifungal
+23	tautomycetin	antifungal-cytotoxic
+24	tautomycin	antifungal-cytotoxic
+25	tiacumicin	antibacterial
+26	9methylstreptimidone	antifungal-cytotoxic
+27	bongkrekic acid	antifungal-cytotoxic
+28	clycloheximide	antifungal
+29	difficidin	antibacterial
+30	migrastatin	antifungal-cytotoxic
+31	elansolid	antibacterial-cytotoxic
+32	etnangien	antibacterial
+33	legioliulin	unknown
+34	macrolactin	antibacterial-antifungal
+35	mupirocin	antibacterial
+36	sorangicin	antibacterial
+37	thailandamide	unknown
+38	asukamycin	antibacterial-antifungal-cytotoxic
+39	saxitoxin	
+40	anatoxin	
+41	xenocyloins	
+42	actinorhodin	antibacterial
+43	alnumycin	antibacterial-cytotoxic
+44	athraquinone	antibacterial-antifungal-cytotoxic
+45	aranciamycin	antibacterial-cytotoxic
+46	arenimycin	antibacterial-cytotoxic
+47	arimetamycin	cytotoxic
+48	arixanthomycin	antibacterial-cytotoxic
+49	auricin	antibacterial
+50	benastatin	antibacterial-cytotoxic
+51	chartreusin	antibacterial-cytotoxic
+52	chromomycin	antibacterial-antifungal-cytotoxic
+53	cinerubin	antibacterial-cytotoxic
+54	colabomycin	antibacterial
+55	elloramycin	cytotoxic
+56	enterocin	antibacterial
+57	arthrofactin	
+58	aeruginosin	
+59	flustatin	unknown
+60	fredericamycin	antibacterial-antifungal-cytotoxic
+61	granaticin	antibacterial
+62	gryncamycin	cytotoxic
+63	griseorhondin	cytotoxic
+64	arylomycin	antibacterial
+65	bromoalterochromides	antibacterial-cytotoxic
+66	landomycin	antibacterial-cytotoxic
+67	lomaiviticin	antibacterial-cytotoxic
+68	mithramycin	antibacterial-cytotoxic
+69	nogalamycin	antibacterial-cytotoxic
+70	oviedomycin	cytotoxic
+71	rabelomycin	antibacterial-cytotoxic
+72	resistomcycin	antibacterial-antifungal
+73	saquayamycin	antibacterial-cytotoxic
+74	SF2575	antibacterial-cytotoxic
+75	steffimycin	antibacterial-cytotoxic
+76	tetarimycin	antibacterial
+77	tetracenomycin	antibacterial-cytotoxic
+78	cetoniacytone	cytotoxic
+79	red_pigment	unknown
+80	A40926	antibacterial
+81	A47934	antibacterial
+82	aeruginoside	unknown
+83	mehtylpendolmycin	unknown
+84	myxoprincomide	
+85	orfamide	antifungal
+86	orfamide_a	antifungal
+87	phosphinothricin	antibacterial-antifungal
+88	ristomycin	antibacterial
+89	serobactins	
+90	sessilin	antifungal
+91	shinorine	
+92	skyllamycin	unknown
+93	spumigin	unknown
+94	stenothricin	antibacterial
+95	surfactin	antibacterial-antifungal
+96	taromycin	antibacterial
+97	teicoplanin	antibacterial
+98	thanamycin	antifungal
+99	thiocoraline	antibacterial-cytotoxic
+100	tolaasin	antifungal
+101	valinomycin	antibacterial-antifungal-cytotoxic
+102	griseoviridin	antibacterial-antifungal
+103	WLIP	antibacterial-antifungal
+104	xantholysin	antibacterial-antifungal
+105	xenoamicins	
+106	bottromycin	antibacterial
+107	viridisamide	unknown
+108	anacyclamide	unknown
+109	microcylamide	unknown
+110	microcylamide_2	unknown
+111	patellin_2_3	unknown
+112	prenylagaramide_B_C	
+113	tenuecyclamide_A_C	antibacterial
+114	trunkamide	cytotoxic
+115	aeruginosamide	cytotoxic
+116	circularin	antibacterial
+117	catenulipeptin	unknown
+118	cinnamycin	antibacterial
+119	carotenoid	
+120	phenalinolactone	antibacterial
+121	2_methylisoborneol	
+122	geosmin	
+123	xiamyicin	unknown
+124	hassallidins	antifungal
+125	methylpendolmycin	unknown
+126	eponemycin	cytotoxic
+127	malleobactin	
+128	cupriachelin	unknown
+129	hormaomycin	antibacterial
+130	luminmycin	cytotoxic
+131	fimsbactin	
+132	cichofactin	antibacterial-antifungal
+133	anabaenopeptin	
+134	leupyrrin	antifungal
+135	massetolide	antifungal
+136	lyngbyatoxin	cytotoxic
+137	cereulide	cytotoxic
+138	epoxomicin	cytotoxic
+139	cycloheximide	antifungal
+140	grincamycin	cytotoxic
+141	cephamycin	antibacterial
+142	cyclomarin	cytotoxic
+143	calcium_dependent_antibiotic	antibacterial
+144	canthaxanthin_bradyrhizobium	
+145	entianin	antibacterial
+146	epilancin	antibacterial
+147	ericin	antibacterial
+148	rubivivax_gelatnosus_carotenoid	
+149	rhobacter_sphaeroides_241_carotenoid	
+150	rhobacter_capsulatus_cartenoid	
+151	pantoea_anantis_carotenoid	
+152	staph_aureus_carotenoid	
+153	erythreapeptin	unknown
+154	geobacillin	antibacterial
+155	geobacillin_ii	antibacterial
+156	haloduracin	antibacterial
+157	informatipeptin	unknown
+158	labyrinthopeptin	unknown
+159	lacticin	antibacterial
+160	macedocin	antibacterial
+161	microbisporicin	antibacterial
+162	nisin	antibacterial
+163	planosporicin	antibacterial
+164	SAL_2242	unknown
+165	SapB	
+166	SRO15_2212	unknown
+167	SRO14_3108	unknown
+168	subtilin	antibacterial
+169	subtilomycin	antibacterial-antifungal
+170	venezuelin	unknown
+171	clostridiolysin	
+172	streptolysin	cytotoxic
+173	plantazolicin	antibacterial
+174	SRO15_2005	unknown
+175	SSV_2083	unknown
+176	cypemycin	antibacterial-cytotoxic
+177	grisemycin	
+178	microviridin	
+179	microvidin_2	
+180	SCO_2138	unknown
+181	SLI_2138	unknown
+182	SWA_2138	unknown
+183	polytheonamides	cytotoxic
+184	sporolation_killing_factor	antibacterial
+185	cyclothiazomycin	antifungal
+186	GE2270	antibacterial
+187	thiocillin	antibacterial
+188	thiomuracins	antibacterial
+189	TP_1161	antibacterial
+190	amylocyclicin	antibacterial
+191	lactocillin	antibacterial
+192	welwitindolinone	antibacterial-antifungal-cytotoxic
+193	cyclooctatin	
+194	validamycin	antibacterial-antifungal
+195		
+196	moenomycin	antibacterial
+197	cepacian	
+198	methylarcyriarubin	cytotoxic
+199	physostigmine	
+200	rebeccamycin	antibacterial-antifungal-cytotoxic
+201	rebeccamycin_2	antibacterial-antifungal-cytotoxic
+202	scytonemin	unknown
+203	violacein	antibacterial-cytotoxic
+204	violacein_2	antibacterial-cytotoxic
+205	clorobiocin	antibacterial
+206	coumermycin	antibacterial
+207	novobiocin	antibacterial
+208	APE_ec	
+209	APE_vf	
+210	flexirubin	unknown
+211	alanylclavam	antibacterial-antifungal
+212	clavams	antifungal
+213	clavulanic_acid	antibacterial
+214	thienamycin	antibacterial
+215	gamma_butyrolactone	
+216	vpe	unknown
+217	caprazamycin	antibacterial
+218	tunicamycin	antibacterial-antifungal-cytotoxic
+219	AWQC131C	
+220	bromophenols_1	antibacterial-cytotoxic
+221	bromophenols_2	antibacterial-cytotoxic
+222	caryoynencin	antibacterial-antifungal
+223	chloramphenicol	antibacterial
+224	desosamine	antibacterial
+225	mitomycin	cytotoxic
+226	promysalin	antibacterial
+227	endophenazines	antibacterial-antifungal
+228	esmeraldin	unknown
+229	fosfomycin	antibacterial
+230	desferrioxamine	
+231	desferrioxamine_2	
+232	petrobactin	
+233	staphyloferrin	
+234	alpha_galactosylceramide	
+235	napsamycin	antibacterial
+236	pristinamycin	antibacterial
+237	amicetin	antibacterial
+238	ajudazol	antifungal
+239	althiomycin	antibacterial
+240	andrimid	antibacterial
+241	antimycin	antifungal-cytotoxic
+242	barbamide	cytotoxic
+243	bleomycin	cytotoxic
+244	burkholdac	cytotoxic
+245	C_1027	antibacterial-cytotoxic
+246	calyculin	cytotoxic
+247	chondramide	cytotoxic
+248	chondrochloren	antibacterial-antifungal
+249	cinnabaramide	antifungal-cytotoxic
+250	colibactin	antibacterial-cytotoxic
+251	collismycin	antibacterial-antifungal
+252	cryptophycin	antifungal-cytotoxic
+253	curacin	cytotoxic
+254	cylindrospermopsin	cytotoxic
+255	didemnin	cytotoxic
+256	FK228	antifungal-cytotoxic
+257	frontalamide	antifungal
+258	hectochlorin	antifungal-cytotoxic
+259	jmaicamide	
+260	lipomycin	antibacterial
+261	lobophorin	antibacterial-cytotoxic
+262	lymphostin	
+263	lymphostin_2	
+264	maduropeptin	antibacterial-cytotoxic
+265	melithiazol	antifungal-cytotoxic
+266	micacocidin	antibacterial
+267	microcystin	cytotoxic
+268	microcystin_2	cytotoxic
+269	microsclerodermins	antifungal
+270	myxochromide	
+271	myxothiazol	antifungal-cytotoxic
+272	myxovirescin	antibacterial
+273	nostopeptolide	
+274	nostophycin	cytotoxic
+275	pellasoren	cytotoxic
+276	pyralomicin	antibacterial
+277	salinosporamide	cytotoxic
+278	spiruchostatin	antifungal-cytotoxic
+279	streptolydigin	antibacterial
+280	tallysomycin	cytotoxic
+281	thuggacin	antibacterial
+282	tirandamycinn	antibacterial
+283	xenocoumacin	antibacterial
+284	zeamine	antibacterial
+285	zorbamycin	cytotoxic
+286	polyketomycin	antibacterial-cytotoxic
+287	cylindrocyclophane	cytotoxic
+288	kendomycin	antibacterial-cytotoxic
+289	chivosazol	antifungal-cytotoxic
+290	kirromycin	antibacterial
+291	nosperin	unknown
+292	simocyclinone	antibacterial-cytotoxic
+293	liposidomycin	antibacterial
+294	napyradiomycin	antibacterial
+295	endophenazine	antibacterial-antifungal
+296	merochlorin	antibacterial
+297	bacillaene	antibacterial
+298	bacillomycin	antifungal
+299	diaphorin	cytotoxic
+300	fengycin	antifungal
+301	kalimantacin	antibacterial
+302	leinamycin	antibacterial-cytotoxic
+303	malleilactone	antibacterial-cytotoxic
+304	onnamide	cytotoxic
+305	pederin	cytotoxic
+306	psymberin	cytotoxic
+307	rhizopodins	cytotoxic
+308	rhizoxin	cytotoxic
+309	thailanstatin	cytotoxic
+310	divergolide	antibacterial-cytotoxic
+311	burkholderic_acid	cytotoxic
+312	ambiguine	antibacterial-antifungal-cytotoxic
+313	xenotetrapeptide	unknown
+314	taxlllaid	
+315	marinacarboline	cytotoxic
+316	A201A	antibacterial
+317	platensimycin	antibacterial
+318	cyclothiazomycin_B	antibacterial-antifungal
+319	cyclothiazomycin_C	antibacterial
+320	distamycin	antibacterial-antifungal-cytotoxic
+321	brabantamide	antifungal
+322	pamamycin	antibacterial-antifungal-cytotoxic
+323	fusaricidin	antifungal
+324	polymyxin	antibacterial
+325	cacibiocin	
+326	GE2270_2	antibacterial
+327	platencin	antibacterial
+328	bottromycin_a2	antibacterial
+329	marinopyrrole	antibacterial
+330	nonadecene	
+331	heptadecene	
+332	curacin_2	cytotoxic
+333	piricyclamide	unknown
+334	livipeptin	
+335	piericidin_a1	antifungal-cytotoxic
+336	clostridiolysin_s	cytotoxic
+337	listeriolysin_s	cytotoxic
+338	chlorizidine_a	cytotoxic
+339	plantazolicin_2	antibacterial
+340	streptomonomicin	antibacterial
+341	corynazolicin	unknown
+342	mensacaricin	cytotoxic
+343	UK_68_597	antibacterial
+344	rishirilide_b	
+345	isopropylstilbene	antibacterial-antifungal
+346	bacilysin	antibacterial-antifungal
+347	bacillibactin	
+348	poaeamide	antifungal
+349	nannocystin	antifungal-cytotoxic
+350	marinophenazines	cytotoxic
+351	streptocollin	
+352	retimycin	cytotoxic
+353	SBI_06990	unknown
+354	salinamide	antibacterial
+355	microsclerodermins_2	antifungal
+356	aresnopolyketides	unknown
+357	pseudopyronine	antibacterial-antifungal-cytotoxic
+358	flavecins	antibacterial
+359	rakicidin	cytotoxic
+360	rakicidin_2	cytotoxic
+361	rakicidin_d	cytotoxic
+362	BE_43547A1	cytotoxic
+363	BE_43547A1_2	cytotoxic
+364	BE_54017	cytotoxic
+365	cladoniamide	cytotoxic
+366	borregomycin	cytotoxic
+367	erdasporine	cytotoxic
+368	lazarimide	cytotoxic
+369	bananamide	unknown
+370	poaeamide_b	unknown
+371	JBIR_100	antibacterial-antifungal
+372	myxochromide_d	unknown
+373	myxochromide_d_2	unknown
+374	myxochromide_d_3	unknown
+375	myxochromide_d_4	unknown
+376	myxochromide_b	unknown
+377	myxochromide_a	unknown
+378	myxochromide_c	unknown
+379	myxochromide_c_2	unknown
+380	myxochromide_a_2	unknown
+381	myxochromide_a_3	unknown
+382	myxochromide_a_4	unknown
+383	myxochromide_s	unknown
+384	myxochromide_s_2	unknown
+385	myxochromide_s_3	unknown
+386	myxochromide_d_5	unknown
+387	argimycin	antibacterial
+388	ikarugamycin	antibacterial-antifungal
+389	obafluorin	antibacterial
+390	warkmycin	antibacterial-cytotoxic
+391	cervnimycin	antibacterial
+392	cystargolide	cytotoxic
+393	belactosin	cytotoxic
+394	actinonin	antibacterial
+395	matylstatins	
+396	aculeximycin	antibacterial-antifungal
+397	ambruticin	antifungal
+398	amphotericin	antifungal
+399	subtilosin_a	antibacterial
+400	anglomycin	antibacterial
+401	anglomycin_2	antibacterial
+402	ansamitocin	cytotoxic
+403	cerein	antibacterial
+404	megacin	antibacterial
+405	apoptolidin	cytotoxic
+406	avermectin	cytotoxic
+407	calcimycin	antibacterial-antifungal
+408	calicheamicin	antibacterial-antifungal-cytotoxic
+409	candicidin	antifungal
+410	chalcomycin	antibacterial
+411	concanamycin_a	cytotoxic
+412	cremimycin	antibacterial
+413	curacin_a	cytotoxic
+414	dihyrdochalcomycin	unknown
+415	E_492_E_975	
+416	E_837	antifungal
+417	ebelactone	antifungal
+418	ECO_2301	antifungal
+419	elaiophylin	cytotoxic
+420	erythromycin_2	antibacterial
+421	FD_891	cytotoxic
+422	filipin	antifungal
+423	fostriecin	cytotoxic
+424	FR_008	antifungal
+425	geldanamycin	antifungal-cytotoxic
+426	geldanamycin_2	antifungal-cytotoxic
+427	geldanamycin_3	antifungal-cytotoxic
+428	gephyronic_acid	antifungal-cytotoxic
+429	halstoctacosanolide	unknown
+430	herbimycin	cytotoxic
+431	hygrocin	antibacterial-antifungal
+432	incednine	cytotoxic
+433	indanomycin	antibacterial
+434	jerangolid	antifungal
+435	kijanimicin	antibacterial
+436	laidlomycin	antibacterial-cytotoxic
+437	lankamycin	antibacterial-cytotoxic
+438	lasalocid	antibacterial
+439	marineosin	cytotoxic
+440	megalomicin	antibacterial
+441	meilingmycin	unknown
+442	midecamycin	antibacterial
+443	monensin	antibacterial
+444	mycinamicin	antibacterial
+445	mycolactone	cytotoxic
+446	nanchangmycin	antibacterial
+447	natamycin	antifungal
+448	nemadectin	
+449	neocarzilin	cytotoxic
+450	niddamycin	antibacterial
+451	nystain_like_polyene	antifungal
+452	oligomycin	antifungal-cytotoxic
+453	pactamycin_2	antibacterial-antifungal
+454	phoslactomycin_b	antifungal-cytotoxic
+455	piericidin_a1_2	antifungal-cytotoxic
+456	pimaricin	antifungal
+457	pladienolide	cytotoxic
+458	pyoluteorin	antifungal
+459	pyoluteorin_2	antifungal
+460	pyrrolomycin	antibacterial
+461	pyrrolomycin_2	antibacterial
+462	pyrrolomycin_3	antibacterial
+463	quartromicin	
+464	reveromycin	antifungal-cytotoxic
+465	rifamycin	antibacterial
+466	rifamycin_2	antibacterial
+467	rimocidin	antifungal
+468	RK_682	antibacterial-cytotoxic
+469	rubradirin	antibacterial
+470	salinilactam	unknown
+471	salinomycin_2	antibacterial
+472	salinosporamide_a	cytotoxic
+473	spinosad	
+474	tetrocarcin_a	antibacterial-cytotoxic
+475	tetronasin	antibacterial-antifungal
+476	tetronomycin	antibacterial-antifungal
+477	tylactone	unknown
+478	vicenistatin	cytotoxic
+479	basiliskamides	antifungal
+480	tartrolon	antibacterial-cytotoxic
+481	A_74528	
+482	aclacinomycin	cytotoxic
+483	aclacinomycin_2	cytotoxic
+484	aclacinomycin_3	cytotoxic
+485	azicemicin	antibacterial
+486	BE_7585A	unknown
+487	bryostatin	cytotoxic
+488	chartreusin_2	antibacterial-cytotoxic
+489	chelocardin	antibacterial
+490	chortetracycline	antibacterial
+491	chrysomycin	antibacterial-cytotoxic
+492	cosmomycin	cytotoxic
+493	curamycin	antibacterial
+494	dactylocycline	antibacterial
+495	daunorubicin	cytotoxic
+496	doxorubicin	cytotoxic
+497	erdacin	
+498	FD_594	antibacterial-cytotoxic
+499	frenolicin	antibacterial-antifungal
+500	glivocarcin	antibacterial-antifungal-cytotoxic
+501	granaticin_2	antibacterial
+502	griseusin	antifungal-cytotoxic
+503	hatomarubigin	cytotoxic
+504	hedamycin	antibacterial-cytotoxic
+505	jadomycin	antibacterial
+506	kiamycin	cytotoxic
+507	kiamycin_2	cytotoxic
+508	lactomycin_z	antibacterial
+509	lactomycin	antibacterial
+510	lysolipin	antibacterial
+511	macrotetrolide	antibacterial
+512	macrotetrolide_2	antibacterial
+513	medermycin	antibacterial-cytotoxic
+514	mithramycin_2	antibacterial-cytotoxic
+515	naptocyclinone	antibacterial
+516	nogalamycin_2	antibacterial-cytotoxic
+517	nogalamycin_3	antibacterial-cytotoxic
+518	nonactin	antibacterial-antifungal-cytotoxic
+519	oxytetracycline	antibacterial
+520	pederin_2	cytotoxic
+521	pradimicin	antifungal
+522	prodigiosin	antibacterial-antifungal-cytotoxic
+523	prodigiosin_2	antibacterial-antifungal-cytotoxic
+524	prodigiosin_3	antibacterial-antifungal-cytotoxic
+525	prodigiosin_4	antibacterial-antifungal-cytotoxic
+526	R1128	unknown
+527	ravidomycin	antifungal-cytotoxic
+528	rhodomycin	antibacterial-cytotoxic
+529	rubromycin	unknown
+530	Sch47554_47555	unknown
+531	simocyclinone_2	antibacterial-cytotoxic
+532	spore_pigment	
+533	spore_pigment_2	
+534	urdamycin	antibacterial-cytotoxic
+535	urdamycin_2	antibacterial-cytotoxic
+536	xantholipin	antibacterial-antifungal-cytotoxic
+537	2_4_diacetylphloroglucinol	antibacterial-antifungal
+538	phenolic_lipids	
+539	viguiepinol	unknown
+540	2_amino_4_methoxy_trans_3_butenoic_acid	antibacterial-cytotoxic
+541	A_503083	antibacterial
+542	A54145	antibacterial
+543	acinetobactin	
+544	actinetoferrin	
+545	actinomycin	antibacterial-antifungal-cytotoxic
+546	alterochromides	unknown
+547	amychelin	
+548	anabaenopeptin_2	
+549	anthramycin	antibacterial-antifungal-cytotoxic
+550	aureusimine	
+551	bacillibactin_2	
+552	bacitracin	antibacterial
+553	balhimycin	antibacterial
+554	capreomycin	antibacterial
+555	chloroeremomycin	antibacterial
+556	coelibactin	
+557	coelichelin	
+558	complestatin	antibacterial
+559	congocidine	antibacterial
+560	coronatine	
+561	corpeptin	antibacterial
+562	cyanopeptin	unknown
+563	cystomanamides	unknown
+564	daptomycin	antibacterial
+565	echinomycin	antibacterial-antifungal-cytotoxic
+566	echosides	cytotoxic-unknown
+567	enduracidin	antibacterial
+568	enterobactin	
+569	entolysin	
+570	equibactin	
+571	erythrochelin	antibacterial
+572	exochelin	
+573	FK506	antifungal
+574	friulimicin	antibacterial
+575	fusaricidin_2	antifungal
+576	fuscachelin	
+577	GE81112	antibacterial
+578	glycopeptidolipid	
+579	glycopeptidolipid_1	
+580	glycopeptidolipid_2	
+581	glycopeptidolipid_3	
+582	gobichelin	
+583	gramicidin	antibacterial
+584	griseobactin	
+585	heterobactin	
+586	holomycin	antibacterial-antifungal-cytotoxic
+587	indigoidine	antibacterial
+588	JBIR_34	
+589	koranimine	unknown
+590	kutznerides	antifungal
+591	laspartomycin	antibacterial
+592	lichenysin	antibacterial-cytotoxic
+593	lipstatin	
+594	lysobactin	antibacterial
+595	mangotoxin	
+596	mannopeptimycin	antibacterial
+597	mirubactin	
+598	naphthyridinomycin	antibacterial-cytotoxic
+599	nocardicin	antibacterial
+600	nodularin	
+601	nostocyclopeptide	cytotoxic
+602	paenibacterin	antibacterial
+603	paenibactin	
+604	pelgipeptin	antibacterial-antifungal
+605	plipastatin	antifungal
+606	polymyxin_2	antibacterial
+607	porothramycin	antibacterial-cytotoxic
+608	pseudomonine	
+609	putisolvin	antibacterial-antifungal
+610	pyochelin	antibacterial
+611	pyoverdine	
+612	quinocarcin	cytotoxic
+613	quinomycin	antibacterial-cytotoxic
+614	rhodochelin	
+615	ristocetin	antibacterial
+616	safracin	cytotoxic
+617	saframycin_a	cytotoxic
+618	scabichelin	
+619	sibiromycin	antibacterial-cytotoxic
+620	streptothricin	antibacterial
+621	SW_163	antibacterial-cytotoxic
+622	syringafactin	
+623	syringolin_a	cytotoxic
+624	syringomycin	
+625	syringopeptin	
+626	teicoplanin_2	antibacterial
+627	thaxtomin	
+628	tilivaline	
+629	tomaymycin	cytotoxic
+630	tridecaptin	antibacterial
+631	triostin_a	cytotoxic
+632	turnerbactin	
+633	tyrocidine	antibacterial
+634	vanchrobactin	
+635	vancomycin	antibacterial
+636	vicibactin	
+637	viomycin	antibacterial
+638	vulnibactin	
+639	WAP_8294A2	antibacterial
+640	yatakemycin	antifungal-cytotoxic
+641	yersiniabactin	
+642	bottromycin_a2_2	antibacterial
+643	bottromycin_d	antibacterial
+644	patellamide_a	cytotoxic
+645	trichamide	
+646	glycocin_f	antibacterial
+647	acidocin_b	antibacterial
+648	butyrivibriocin_ar10	unknown
+649	carnocyclin	antibacterial
+650	enterocin_AS_48	antibacterial
+651	garvicin_ml	antibacterial
+652	gassericin_a	antibacterial
+653	uberolysin	antibacterial
+654	actagardine	antibacterial
+655	amfs	
+656	BhtA1_BhtA2	unknown
+657	bovicin_hj50	antibacterial
+658	butyrivbriocin_or79	antibacterial
+659	carnolysin_a1_a2	antibacterial
+660	cerecidin	antibacterial
+661	cytolysin	antibacterial-cytotoxic
+662	epicidin	antibacterial
+663	epilancin_k7	unknown
+664	gallidermin	antibacterial
+665	lacticin_2	antibacterial
+666	lacticin_z	antibacterial
+667	lactocin_s	antibacterial
+668	lichenicidin_vk21_a1	antibacterial
+669	mersacidin	antibacterial
+670	michiganin_a	antibacterial
+671	mutacin_b_ny266	antibacterial
+672	mutacin_i	antibacterial
+673	mutacin_ii	antibacterial
+674	mutacin_iii	antibacterial
+675	mutacin_k8	antibacterial
+676	nisin_q	antibacterial
+677	nisin_u	antibacterial
+678	nisin_z	antibacterial
+679	nukacin_isk1	antibacterial
+680	paenibacillin	antibacterial
+681	paenicidin_a	antibacterial
+682	paenicidin_b	antibacterial
+683	pep5	antibacterial
+684	ruminococcin_a	antibacterial
+685	salivaricin_9	antibacterial
+686	salivaricin_a	antibacterial
+687	salivaricin_d	antibacterial
+688	salivaricin_g32	antibacterial
+689	Smb_A_Smb_B	antibacterial
+690	staphylococcin_c55_alpha	unknown
+691	streptin	antibacterial
+692	sublancin_168	antibacterial
+693	thermophilin_1277	antibacterial
+694	goadsporin	antibacterial
+695	trifolitoxin	unknown
+696	microcin_b17	antibacterial
+697	astexin_1	antibacterial
+698	burhizin	unknown
+699	capistruin	antibacterial
+700	caulonodin	unknown
+701	caulosegnin	unknown
+702	lariatin	antibacterial
+703	rubrivinodin	unknown
+704	sphingonodin_ii	unknown
+705	xanthomonin	unknown
+706	microcin_j25	antibacterial
+707	colicin_v	antibacterial
+708	microcin_c7	antibacterial
+709	microcin_e492	antibacterial
+710	microcin_h47	antibacterial
+711	microcin_l	unknown
+712	microcin_m	antibacterial
+713	microcin_n	antibacterial
+714	marinostatin	
+715	microviridin_k	
+716	thuricin_cd	antibacterial
+717	thuricin_h	antibacterial
+718	subtilosin_a_2	antibacterial
+719	GE37468	antibacterial
+720	lactazole	
+721	micrococcin_p1	antibacterial
+722	nocathiacin	antibacterial
+723	nocathiacin_2	antibacterial
+724	nosiheptide	antibacterial
+725	siomycin	antibacterial-cytotoxic
+726	thiostrepton	antibacterial-cytotoxic
+727	coagulin	antibacterial
+728	enterocin_a	antibacterial
+729	gassericin_t	antibacterial
+730	lacticin_q	antibacterial
+731	megacin_2	antibacterial
+732	plantaricin_w	antibacterial
+733	salivaricin_crl1328	antibacterial
+734	thioviridamide	cytotoxic-unknown
+735	thuricin	antibacterial
+736	astaxanthin	
+737	brasilicardin_a	antifungal-cytotoxic
+738	carotenoid_2	unknown
+739	carotenoid_3	
+740	carotenoid_4	
+741	carotenoid_5	
+742	carotenoid_6	
+743	carotenoid_7	
+744	carotenoid_8	
+745	carotenoid_9	
+746	carotenoid_10	
+747	carotenoid_11	
+748	carotenoid_12	
+749	carotenoid_13	
+750	carotenoid_14	
+751	carotenoid_15	
+752	carotenoid_16	
+753	carotenoid_17	
+754	KS_505a	unknown
+755	napyradiomycin_2	antibacterial
+756	pentalenolactone	antibacterial-antifungal
+757	siomycin_2	antibacterial-cytotoxic
+758	zeaxanthin	
+759	2_methylisoborneol_2	
+760	2_methylisoborneol_3	
+761	albaflavenone	unknown
+762	grixazone	unknown
+763	hopene	unknown
+764	isorenieratene	
+765	delta_cadinene	unknown
+766	t-muurolol	unknown
+767	pentalenolactone_2	antibacterial-antifungal
+768	diazepinomicin	antibacterial
+769	2_deoxystreptamine	unknown
+770	5_hydroxystreptomycin	unknown
+771	acarbose	
+772	apramycin	antibacterial
+773	butirosin	antibacterial
+774	butirosin_2	antibacterial
+775	fortimicin	antibacterial
+776	gentamicin	antibacterial
+777	gentamicin_2	antibacterial
+778	hygromycin_a	antibacterial
+779	hygromycin_b	antibacterial-antifungal
+780	istamycin	antibacterial
+781	jinggangmycin	antifungal
+782	kanamycin	antibacterial
+783	kanamycin_2	antibacterial
+784	kanamycin_3	antibacterial
+785	kanamycin_4	antibacterial
+786	kanamycin_5	antibacterial
+787	kasugamycin	antibacterial-antifungal
+788	lividomycinn	antibacterial
+789	neomycin	antibacterial
+790	neomycin_2	antibacterial
+791	neomycin_3	antibacterial
+792	paromomycin	antibacterial-antifungal
+793	ribostamycin	antibacterial
+794	sisomicin	antibacterial
+795	spectinomycin	antibacterial
+796	spectinomycin_2	antibacterial
+797	streptomycin	antibacterial
+798	streptomycin_2	antibacterial
+799	tobramycin	antibacterial
+800	tobramycin_2	antibacterial
+801	tobramycin_3	antibacterial
+802	validamycin_2	antibacterial-antifungal
+803	streptomycin_3	antibacterial
+804	alginate	
+805	alginate_2	
+806	auricin_deoxysugar_moieties	unknown
+807	capsular_polysaccharide	
+808	capsular_polysaccharide_2	
+809	capsular_polysaccharide_3	
+810	capsular_polysaccharide_4	
+811	capsular_polysaccharide_5	
+812	capsular_polysaccharide_6	
+813	capsular_polysaccharide_7	
+814	capsular_polysaccharide_8	
+815	capsular_polysaccharide_9	
+816	capsular_polysaccharide_10	
+817	capsular_polysaccharide_11	
+818	capsular_polysaccharide_12	
+819	capsular_polysaccharide_13	
+820	capsular_polysaccharide_14	
+821	capsular_polysaccharide_15	
+822	capsular_polysaccharide_16	
+823	capsular_polysaccharide_17	
+824	capsular_polysaccharide_18	
+825	capsular_polysaccharide_19	
+826	capsular_polysaccharide_20	
+827	capsular_polysaccharide_21	
+828	capsular_polysaccharide_22	
+829	capsular_polysaccharide_23	
+830	capsular_polysaccharide_24	
+831	capsular_polysaccharide_25	
+832	capsular_polysaccharide_26	
+833	capsular_polysaccharide_27	
+834	capsular_polysaccharide_28	
+835	capsular_polysaccharide_29	
+836	capsular_polysaccharide_30	
+837	diutan_polysaccharide	
+838	emulsan	
+839	exopolysaccharide	
+840	exopolysaccharide_2	
+841	stewartan	
+842	exopolysaccharide_3	
+843	exopolysaccharide_4	
+844	exopolysaccharide_5	
+845	exopolysaccharide_6	
+846	gellan_polysaccharide	
+847	glycopeptidolipid_4	
+848	lipooligosaccharide	
+849	lipooligosaccharide_2	
+850	lipopolysaccharide	
+851	lipopolysaccharide_2	
+852	lipopolysaccharide_3	
+853	lipopolysaccharide_4	
+854	lipopolysaccharide_5	
+855	lipopolysaccharide_6	
+856	lipopolysaccharide_7	
+857	o_and_k_antigen	
+858	o_antigen	
+859	o_antigen_2	
+860	o_antigen_3	
+861	o_antigen_4	
+862	o_antigen_5	
+863	o_antigen_6	
+864	o_antigen_7	
+865	o_antigen_8	
+866	o_antigen_9	
+867	o_antigen_10	
+868	polysaccharide	
+869	o_antigen_11	
+870	lipopolysaccharide_oligosaccharide	
+871	s_layer_glycan	
+872	s_layer_glycan_2	
+873	s_layer_glycan_3	
+874	sphingan_polysaccharide	
+875	colanic_acid	
+876	xanthan	
+877	galactoglucan	
+878	succinoglycan	
+879	gg_exopolysaccharide	
+880	acarviostatin	unknown
+881	phosphonoglycans	
+882	phosphonoglycans_2	
+883	AT2433	antibacterial-cytotoxic
+884	k_252a	cytotoxic-unknown
+885	K_252a_2	cytotoxic-unknown
+886	rebeccamycin_3	antibacterial-antifungal-cytotoxic
+887	staurosporine	antifungal
+888	staurosporine_2	antifungal
+889	staurosporine_3	antifungal
+890	violacein_3	antibacterial-antifungal-cytotoxic
+891	violacein_4	antibacterial-antifungal-cytotoxic
+892	simocyclinone_3	antibacterial-cytotoxic
+893	flexirubin_2	
+894	xanthomonadin	
+895	carbapenem_mm_4550	unknown
+896	clavulanic_acid_2	
+897	tabtoxin	
+898	gamma_butyrolactone_2	
+899	albonoursin	antibacterial
+900	ectoine	
+901	ectoine_2	
+902	ectoine_3	
+903	ectoine_4	
+904	ectoine_5	
+905	ectoine_6	
+906	ectoine_7	
+907	ectoine_8	
+908	ectoine_9	
+909	eicosapentaenoic_acid	
+910	eicosapentaenoic_acid_2	
+911	eicosapentaenoic_acid_3	
+912	eicosapentaenoic_acid_like_compound	
+913	eicosapentaenoic_acid_4	
+914	polyhydroxyalkanoate	
+915	polyhydroxyalkanoic_acids	
+916	teichuronic_acid	
+917	heterocyst_glycolipids	
+918	mycolic_acid	
+919	A_90289	unknown
+920	A201A_2	antibacterial
+921	blasticidin	antibacterial-antifungal
+922	nikkomycin	antifungal
+923	polyoxin	antifungal
+924	puromycin	antibacterial
+925	toyocamycin	antifungal-cytotoxic
+926	toyocamycin_2	antifungal-cytotoxic
+927	mildiomycin	antifungal
+928	arginomycin	antibacterial-antifungal
+929	3_methylarginine	antibacterial
+930	4-hydroxy-3-nitrospbenzamide	unknown
+931	allylmalonyl_coa	unknown
+932	bacilysin_2	antibacterial-antifungal
+933	bagremycin	antibacterial-antifungal
+934	citrulline	
+935	d_cycloserine	antibacterial
+936	dehydrophos	antibacterial
+937	desosamine_2	antibacterial
+938	flaviolin	unknown
+939	fluorometabolite	unknown
+940	FR900098	antibacterial
+941	heme_d1	
+942	heme_d1_2	
+943	lincomycin	antibacterial
+944	melanin	unknown
+945	melanin_2	unknown
+946	melanin_3	unknown
+947	melanin_4	unknown
+948	melanin_5	unknown
+949	menaquinone	
+950	methylenomycin	antibacterial
+951	molybdenum_cofactor	
+952	molybdenum_cofactor_2	
+953	ochronotic_pigment	unknown
+954	phaseolotoxin	
+955	polyhydroxyalkanoate_2	
+956	PQS	
+957	paerucumarin	unknown
+958	pyrrolnitrin	antibacterial-antifungal
+959	quinolobactin	
+960	rhizocticin	antifungal
+961	roseoflavin	antibacterial
+962	t3_toxin	
+963	toxoflavin	antibacterial
+964	tropoditheitic_acid	antibacterial-cytotoxic
+965	xiamenmycin	unknown
+966	pyocyanine	antibacterial-antifungal
+967	fosfazinomycin	antifungal
+968	aerobactin	
+969	desferrioxamine_b	
+970	staphylobactin	
+971	vibriobactin	
+972	vibrioferrin	
+973	vibrioferrin_2	
+974	A_500359	antibacterial
+975	pacidamycin	antibacterial
+976	ansatrienin	antifungal-cytotoxic
+977	azinomycin_b	antibacterial-cytotoxic
+978	bactobolin	antibacterial-antifungal-cytotoxic
+979	caerulomycin_a	antibacterial-antifungal
+980	crocacin	antifungal-cytotoxic
+981	cylindrospermopsin_2	cytotoxic
+982	cylindrospermopsin_3	cytotoxic
+983	cylindrospermopsin_4	cytotoxic
+984	cystothiazole_a	antifungal-cytotoxic
+985	delftibactin	unknown
+986	dkxanthene	antifungal
+987	epothilone	cytotoxic
+988	epothilone_2	cytotoxic
+989	epothilone_3	cytotoxic
+990	epothilone_4	cytotoxic
+991	FK520	antifungal
+992	FR901464	cytotoxic
+993	glidobactin	antifungal-cytotoxic
+994	guadinomine	
+995	heat_stable_antifungal_factor	antifungal
+996	jawsamycin	antifungal
+997	locillomycin	antibacterial-antifungal
+998	melithiazol_2	antifungal-cytotoxic
+999	meridamycin	unknown
+1000	meridamycin_2	unknown
+1001	meridamycin_3	unknown
+1002	microcystin_3	cytotoxic
+1003	micropeptin_k139	unknown
+1004	muraymycin	antibacterial
+1005	mycobactin	
+1006	myxalamid	antibacterial-antifungal
+1007	nocobactin_na	
+1008	oocydin_a	antifungal
+1009	oocydin_a_2	antifungal
+1010	paenilamicin	antibacterial-antifungal-cytotoxic
+1011	polyoxypeptin	cytotoxic
+1012	pyridomycin	antibacterial
+1013	rapamycin	antifungal
+1014	sanglifehrin_a	unknown
+1015	sgr_ptms	unknown
+1016	syringolin_a_2	
+1017	tubulysin	cytotoxic
+1018	yersiniabactin_2	
+1019	zwittermycin_a	antibacterial-antifungal
+1020	dynemicin	antibacterial-cytotoxic
+1021	tln-05220	antibacterial-cytotoxic
+1022	undecylprodigiosin	antibacterial-antifungal
+1023	herboxidiene	antibacterial-cytotoxic
+1024	kosinostatin	antibacterial-antifungal-cytotoxic
+1025	cosmomycin_d	antibacterial-cytotoxic
+1026	aurachin_re	antibacterial
+1027	alkyl_o_dihydrogeranyl_methoxyhydroquinones	unknown
+1028	furaquinocin_a	cytotoxic
+1029	teleocidin_b	unknown
+1030	astaxanthin_dideoxyglycoside	unknown
+1031	sioxanthin	unknown
+1032	albicidin	antibacterial-antifungal
+1033	corallopyronin	antibacterial
+1034	disorazole	cytotoxic
+1035	enacyloxin	antibacterial
+1036	FR901464_2	cytotoxic
+1037	iturin	antifungal
+1038	lankacidin	antibacterial-cytotoxic
+1039	mycosubtilin	antifungal
+1040	myxovirescin_2	antibacterial
+1041	oxazolomycin	antibacterial-antifungal-cytotoxic
+1042	spliceostatin	cytotoxic
+1043	thiomarinol	antibacterial
+1044	virginiamycin	antibacterial
+1045	himastatin	antibacterial-cytotoxic
+1046	puwainaphycins	cytotoxic
+1047	jagaricin	antifungal
+1048	luminmide	unknown
+1049	pheganomycin	antibacterial
+1050	lobophorin_2	antibacterial-cytotoxic
+1051	misakinolide	unknown
+1052	legonaridin	unknown
+1053	taiwanchelin	
+1054	A_102395	
+1055	colistin	antibacterial
+1056	thiolutin	antibacterial-antifungal
+1057	hitachimycin	antibacterial-antifungal-cytotoxic
+1058	nocardiopsin	unknown
+1059	desotamide	antibacterial
+1060	frankiamicin	antibacterial
+1061	o_methylkolavelool	unknown
+1062	akaeolide	antibacterial-cytotoxic
+1063	lorenic_acid_a	unknown
+1064	eremophilene	unknown
+1065	landepoxcin	unknown
+1066	clarexpoxcin	unknown
+1067	versipelostatin	unknown
+1068	indolmycin	antibacterial
+1069	teixobactin	antibacterial
+1070	streptide	unknown
+1071	pseudomycoicidin	antibacterial
+1072	albachelin	
+1073	nataxazole	cytotoxic
+1074	marformycins	antibacterial
+1075	splenocin	unknown
+1076	PreQ0_base	cytotoxic
+1077	acidocin_b_2	antibacterial
+1078	hydroxysporine	antifungal-cytotoxic
+1079	reductasporine	antifungal
+1080	celesticetin	antibacterial
+1081	isorenieratene_2	
+1082	leucanicidin	
+1083	feglymycin	antibacterial
+1084	antalid	unknown
+1085	thiotetroamide	unknown
+1086	thiolactomycin	antibacterial
+1087	chaxamycin	antibacterial-cytotoxic
+1088	maklamicin	antibacterial
+1089	penisin	antibacterial
+1090	enterocin_nkr_5_3b	antibacterial
+1091	A33853	
+1092	cyclizidine	cytotoxic
+1093	7_prenylisatin	antibacterial
+1094	cremeomycin	antibacterial-antifungal-cytotoxic
+1095	streptazone_e	unknown
+1096	WS9326	unknown
+1097	4_Z_annamycin	unknown
+1098	chlorotonil	antibacterial-antifungal
+1099	anthracimycin	antibacterial
+1100	anthracimycin_2	antibacterial
+1101	lomofungin	antibacterial-antifungal-cytotoxic
+1102	lobosamide	
+1103	chaxapeptin	cytotoxic-unknown
+1104	simocyclinone_4	antibacterial-cytotoxic
+1105	naringenin	unknown
+1106	viscosin	
+1107	thuggacin_2	antibacterial
+1108	aurachin	antibacterial-antifungal
+1109	tubulysin_2	cytotoxic
+1110	myxochelin	
+1111	heronamide	unknown
+1112	phormidolide	unknown
+1113	cahuitamycin	antibacterial
+1114	tu_3010	antibacterial
+1115	thiolactomycin_2	antibacterial
+1116	U_68204	antibacterial
+1117	U_68204_2	antibacterial
+1118	paeninodin	unknown
+1119	carbamidocyclophane	antibacterial-cytotoxic
+1120	PM100117	cytotoxic
+1121	sodorifen	unknown
+1122	tropoditheitic_acid_2	antibacterial
+1123	ralsolamycin	
+1124	cinnamycin_b	antibacterial
+1125	zunyimycin_a	antibacterial
+1126	haliamide	cytotoxic
+1127	tambromycin	cytotoxic-unknown
+1128	metatricycloene	unknown
+1129	lipopeptide_8D11	
+1130	thienodolin	
+1131	hexaricin	unknown
+1132	uncialamycin	antibacterial
+1133	tiancimycin	cytotoxic
+1134	BD_12	antibacterial-antifungal
+1135	brasilinolide	antifungal
+1136	svaricin	unknown
+1137	macrolactin_2	antibacterial
+1138	saprolmycin_e	
+1139	JBIR_76	cytotoxic
+1140	nucleocidin	antibacterial
+1141	gassericin_e	antibacterial
+1142	cichopeptin	
+1143	thusin	antibacterial
+1144	pinensins	antibacterial-antifungal
+1145	lugdunin	antibacterial
+1146	phenalamide	antibacterial-antifungal
+1147	teichomycin	antibacterial
+1148	aldgamycin	antibacterial
+1149	lidamycin	antibacterial-cytotoxic
+1150	telomycin	antibacterial
+1151	bicereucin	antibacterial
+1152	xanthoferrin	
+1153	dutomycin	antibacterial-cytotoxic
+1154	polysaccharide_a	
+1155	polysaccharide_b	
+1156	polysaccharide_c	
+1157	cystobactamide	antibacterial
+1158	griselimycin	antibacterial
+1159	althiomycin_2	antibacterial
+1160	nunapeptin	antifungal
+1161	alginate_3	
+1162	cellulose	
+1163	bryostatin_2	cytotoxic
+1164	curacin_3	cytotoxic
+1165	From ripp miner:	
+1166	streptococcin_a_ff22	antibacterial
+1167	streptococcin_a_m49	antibacterial
